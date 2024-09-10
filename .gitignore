@@ -1,3 +1,17 @@
+# 数据集和模型权重
+checkpoints/
+
+
+# 通用忽略规则
+*.pyc
+__pycache__/
+*.log
+*.tmp
+*.bak
+*.DS_Store
+Thumbs.db
+*.swp
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -60,10 +74,6 @@ cover/
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
-
-# Flask stuff:
-instance/
-.webassets-cache
 
 # Scrapy stuff:
 .scrapy
