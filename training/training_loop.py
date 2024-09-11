@@ -24,7 +24,7 @@ from torch_utils.ops import conv2d_gradfix
 from torch_utils.ops import grid_sample_gradfix
 
 import legacy
-from metrics import metric_main
+# from metrics import metric_main
 
 #----------------------------------------------------------------------------
 
